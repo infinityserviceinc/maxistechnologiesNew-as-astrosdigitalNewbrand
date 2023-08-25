@@ -107,13 +107,13 @@ marquee span {
     font-size: 16px;
     letter-spacing: 1px;
     cursor: pointer;
-    box-shadow: inset 0 0 0 0 #E00000;
+    box-shadow: inset 0 0 0 0 #d02a3d;
     -webkit-transition: ease-out 0.5s;
     -moz-transition: ease-out 0.8s;
     transition: ease-out 0.8s;
     width: 250px;
     height: 50px;
-    background: #E00000;
+    background: #d02a3d;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -387,7 +387,7 @@ section.sec_3 {
 }
 
 .heading_wrap p span {
-    color: #E00000;
+    color: #d02a3d;
 }
 
 section.sec_4 {
@@ -614,7 +614,7 @@ section.sec_5 .global_heading:before, section.sec_5 .global_heading:after {
 }
 
 .testimonial_boxes ul li h5 {
-    background: #E00000;
+    background: #d02a3d;
     position: absolute;
     top: -60px;
     right: 0;
@@ -737,7 +737,7 @@ input[type="submit"] {
 
 input[type="submit"] {
     border-radius: 22.004px !important;
-    background: #E00000 !important;
+    background: #d02a3d !important;
     width: 250px;
     height: 50.009px !important;
     border: none !important;
@@ -824,7 +824,7 @@ header.header_wrap div#outer {
 
 .three_d_inner ul li h2:hover, .three_d_inner ul li h3:hover, .three_d_inner_wrap ul li h2:hover, 
 .three_d_inner_wrap ul li h3:hover, .marketing_content h3:hover, .marketing_content h2:hover, .app_wrap h3:hover {
-    color: #E00000;
+    color: #d02a3d;
     transition: 0.5s;
 }
 
@@ -1626,7 +1626,7 @@ li.inner_banner {
         position: absolute;
         right: 0;
         top: -80px;
-        background: #e00000;
+        background: #d02a3d;
         height: 50px;
         padding: 0 4px;
     }
@@ -1719,7 +1719,7 @@ li.inner_banner {
     margin: 10px 0 0 0 !important;
     border-radius: 20.482px;
     background: #FFF !important;
-    color: #E00000 !important;
+    color: #d02a3d !important;
     text-align: center;
     font-size: 14.896px;
     font-style: normal;
@@ -1780,7 +1780,7 @@ section.sec_4.mobile {
 }
 
 .global_button a{
-    background: #E00000;
+    background: #d02a3d;
     border-radius: 50px;
     padding: 20px 31px;
     color: #fff !important;
@@ -1801,7 +1801,7 @@ section.sec_4.mobile {
     left: 5px;
     width: 50px;
     height: 50px;
-    background-color: #e00000;
+    background-color: #d02a3d;
     border-radius: 50px;
     transition: 0.5s ease-in-out;
     top: 0;

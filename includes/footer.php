@@ -245,7 +245,7 @@ jQuery(document).ready(function() {
     jQuery(document).on('mouseenter mouseleave touchend', '.inner_banner h1', function (ev) {
     var el = jQuery(this).find('span');
     if(ev.type === 'mouseenter') {
-        TweenMax.staggerTo(el, 0.8, {color:'#f00', ease:Power4.easeOut},0.07);
+        TweenMax.staggerTo(el, 0.8, {color:'#d02a3d', ease:Power4.easeOut},0.07);
     } else {
         TweenMax.staggerTo(el, 0.8, {color:'#000', ease:Power4.easeOut},0.07);
     }php

@@ -408,7 +408,7 @@ input.global_button2, input.global_button {
 
 /* header_global */
 .navbar-expand-lg div#navbarNav {justify-content: end !important;}
-a:hover{ color: #E00000 !important; transition: 0.1s; }
+a:hover{ color: #d02a3d !important; transition: 0.1s; }
 header.header_wrap {position: absolute;width: 100%;top: 10px;z-index: 999;}
 /* ==== global end===*/
 
@@ -428,10 +428,10 @@ header.header_wrap {position: absolute;width: 100%;top: 10px;z-index: 999;}
     position: fixed;
     top: 0;
     left: 0;
-    border: 3px solid #E00000;
+    border: 3px solid #d02a3d;
     border-radius: 50%;
     pointer-events: none;
-    background-color: #E00000;
+    background-color: #d02a3d;
   }
 
 
@@ -617,7 +617,7 @@ section.psd_sec {
 }
 
 .global_button a{
-    background: #E00000;
+    background: #d02a3d;
     border-radius: 50px;
     padding: 20px 31px;
     color: #fff !important;
@@ -638,7 +638,7 @@ section.psd_sec {
     left: 5px;
     width: 50px;
     height: 50px;
-    background-color: #e00000;
+    background-color: #d02a3d;
     border-radius: 50px;
     transition: 0.5s ease-in-out;
     top: 0;
@@ -707,7 +707,7 @@ section.threeD_sec {
 .popup_form_wrp h2:before {content: ''; display: block; position: absolute; background: #e64d26; width: 10px; height: 40px; left: -20px; border-radius: 5px; }
 
 span.color_form {color: #e64d26; }
-button.btn-close {position: absolute;right: 8px;top: 8px;background: #e00000;opacity: 1;border-radius: 0;width: 30px;height: 25px;border-bottom-left-radius: 20px;}
+button.btn-close {position: absolute;right: 8px;top: 8px;background: #d02a3d;opacity: 1;border-radius: 0;width: 30px;height: 25px;border-bottom-left-radius: 20px;}
 button.btn-close:after {content: ''; display: block; position: absolute; background: #fff; width: 4px; height: 26px; top: 5px; transform: rotate(42deg); left: 25px; border-radius: 5px; }
 button.btn-close:before {content: ''; display: block; position: absolute; background: #fff; width: 4px; height: 26px; top: 5px; transform: rotate(129deg); left: 24px; border-radius: 5px; }
 button.btn-close:hover {background: #000;opacity: 1;}
@@ -796,7 +796,7 @@ button.popup_button:hover {background: #f3ad16; }
 }
 
 nav.navbar ul.navbar-nav li a svg {
-    color: #e00000;
+    color: #d02a3d;
 }
 
 .simple_img img {
@@ -836,7 +836,7 @@ ul.dropdown-menu.show li a {
 }
 
 ul.dropdown-menu.show li a:hover {
-    color: #e00000 !important;
+    color: #d02a3d !important;
 }
 
 .inner_service_pg h1 {
@@ -964,7 +964,7 @@ h1.title.wow.fadeInLeft {
 }
 
 span.Thank_youu {
-    color: #e00000;
+    color: #d02a3d;
 }
 
 section.e-commerce_service {
@@ -1004,7 +1004,7 @@ section.e-commerce_service {
 }
 
 .e-commerce_wrap ul li {
-    border: 1px solid #e00000;
+    border: 1px solid #d02a3d;
     margin: 0 0 10px 0;
     padding: 30px 25px;
     border-radius: 20px;
@@ -1030,7 +1030,7 @@ section.e-commerce_service {
 }
 
 .e-commerce_wrap ul li button.btn-dark {
-    background: #e00000;
+    background: #d02a3d;
     border: none;
     width: 180px;
     height: 55px;
@@ -1052,7 +1052,7 @@ section.e-commerce_service {
 }
 
 .inner_making {
-    border: 1px solid #e00000;
+    border: 1px solid #d02a3d;
     border-radius: 10px;
     padding: 30px 20px 0 20px;
     min-height: 220px;
@@ -1076,7 +1076,7 @@ section.book_writing_service {
     border-radius: 30px;
 }
 .main_box{
-    background: #e00000;
+    background: #d02a3d;
     margin: -60px 0 40px 0;
     box-shadow: 0px 7px 20px #333333e0 !important;
     width: 40%;
@@ -1179,7 +1179,7 @@ section.book_writing_service {
     width: 200px;
     height: 50px;
     border: none;
-    background: #e00000;
+    background: #d02a3d;
     border-radius: 20px;
     font-family: 'Astros';
 }
@@ -1250,7 +1250,7 @@ section.book_sec {
   }
   
   .back{
-    background: #e00000;
+    background: #d02a3d;
     /* background: -webkit-linear-gradient(45deg,  #cedce7 0%,#596a72 100%); */
     background: -o-linear-gradient(45deg,  #cedce7 0%,#596a72 100%);
     /* background: linear-gradient(45deg,  #cedce7 0%,#596a72 100%); */
