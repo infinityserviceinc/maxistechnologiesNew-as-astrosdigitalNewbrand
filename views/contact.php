@@ -55,7 +55,7 @@
                     </div>
                     <div class="inner_sider">
                         <h2>Write to us?</h2>
-                        <p><a href="mailto:query@Maxis Technologies.com">query@astrosdigital.com</a></p>
+                        <p><a href="mailto:query@maxistechnologies.com">query@maxistechnologies.com</a></p>
                     </div>
                     <div class="inner_sider">
                         <h2>Come and see us!</h2>
