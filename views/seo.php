@@ -21,8 +21,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="inner_banner service_inner inner_service_pg">
-                    <h1>SEO-the Ultimate</h1>
-                    <h1>Sword Of Power</h1>
+                    <h1>Reach The Top of the Search Results with Our SEO Service</h1>
                     <!-- <h1>Get Exposure It Deserves</h1>                     -->
                 </div>  
                                          
@@ -31,13 +30,13 @@
         <div class="row mt-5">
             <div class="col-md-7">
             <div class="simple_para">
-                <p>A good website design and premium content are never enough. You need effective search engine optimization that will change the visibility dynamics of your site.</p>
+                <p>We know that internet visibility is crucial in today’s marketing. Our experienced techniques ensure your brand is not buried at the bottom of the search results. </p>
             </div>
             <div class="inner_points_servcies">
                     <ul>
-                        <li>Improve the overall revenue by turning leads into paying customers</li>
-                        <li>Enjoys greater brand awareness</li>
-                        <li>Bring qualified leads that offer growth opportunities</li>
+                        <li>Boost your brand’s search rankings </li>
+                        <li>Target audience across your discovered </li>
+                        <li>Increase organic traffic to your website </li>
                     </ul>
                 </div>    
             </div>           
@@ -95,9 +94,9 @@
         <div class="row">
             <div class="col-md-12"> 
                 <div class="global_heading background-text">
-                    <h2 class="right background-text__item">THEY</h2>
-                    <h2 class="center background-text__item">wHAT THEY</h2>
-                    <h2 class="left background-text__item">WHAT <span>SAY</span></h2>
+                    <h2 class="right background-text__item">What</h2>
+                    <h2 class="center background-text__item">Our Client</h2>
+                    <h2 class="left background-text__item">Think</h2>
                 </div> 
             </div>
         </div>
@@ -107,10 +106,10 @@
             <div class="testimonial_boxes mt-5">
                 <ul class="testimonial_slider">
                     <li>
-                        <h5>MA</h5>
-                        <h4>MARK ANTHONY</h4>
+                        <h5>JM</h5>
+                        <h4>Judy M. </h4>
                         <h6>Brand Manager</h6>
-                        <p>Pleased with the kind of professionalism shown by Astros’ designing team. professionalism shown by Astros’ designing team.</p>
+                        <p>Maxis Technologies improved our web presence. Their SEO services profoundly increased our website’s rankings and traffic. </p>
                         <div class="stars">
                             <i class="fa-solid fa-star"></i>
                             <i class="fa-solid fa-star"></i>
@@ -119,10 +118,10 @@
                         </div>
                     </li>
                     <li>
-                        <h5>PY</h5>
-                        <h4>Patricia Yang</h4>
+                        <h5>ZG</h5>
+                        <h4>Zander G. </h4>
                         <h6>Managing Director</h6>
-                        <p>“The project managers ensured that the whole process goes swift and smooth. To my surprise, they delivered the work before the delivery date. And they got it exactly right. Ecstatic with the services.”</p>
+                        <p>Their SEO skills are impressive. Our organic leads increased significantly after their services. I appreciate their hard work a lot. </p>
                         <div class="stars">
                             <i class="fa-solid fa-star"></i>
                             <i class="fa-solid fa-star"></i>
@@ -131,10 +130,10 @@
                         </div>
                     </li>
                     <li>
-                        <h5>CS</h5>
-                        <h4>Carol Shaw</h4>
+                        <h5>JD</h5>
+                        <h4>Jack D</h4>
                         <h6>Brand Owner</h6>
-                        <p>“Maxis Technologies was incredibly accommodating and efficient. They kept us updated throughout and ensured that all of our demands were incorporated into the campaign. Phenomenal experience.”</p>
+                        <p>Our online traffic increased dramatically, boosting our business popularity</p>
                         <div class="stars">
                             <i class="fa-solid fa-star"></i>
                             <i class="fa-solid fa-star"></i>
@@ -143,10 +142,10 @@
                         </div>
                     </li>
                     <li>
-                        <h5>ST</h5>
-                        <h4>Stephen M. Todd</h4>
+                        <h5>GR</h5>
+                        <h4>George R.</h4>
                         <h6>Head of Operations</h6>
-                        <p>I recently had the absolute pleasure of working with the remarkable team at Maxis Technologies. From the moment I stumbled upon their website, I knew I was in for something extraordinary. As a seasoned connoisseur of digital aesthetics, I can confidently say that Maxis Technologies is in a league of its own.</p>
+                        <p>Our website shows up at the top of the keywords we were targeting.</p>
                         <div class="stars">
                             <i class="fa-solid fa-star"></i>
                             <i class="fa-solid fa-star"></i>
@@ -155,10 +154,10 @@
                         </div>
                     </li>
                     <li>
-                        <h5>MA</h5>
-                        <h4>Moses Jones</h4>
+                        <h5>RB</h5>
+                        <h4>Richard B</h4>
                         <h6>Client Relationship Manager</h6>
-                        <p>Unparalleled excellence! Maxis Technologies miraculously turned my vision into a captivating digital reality. Their prowess is unmatched.</p>
+                        <p>Their SEO led us to gain more organic traffic and conversions. Choosing their service was the key decision for our startup success. </p>
                         <div class="stars">
                             <i class="fa-solid fa-star"></i>
                             <i class="fa-solid fa-star"></i>
@@ -167,10 +166,10 @@
                         </div>
                     </li>
                     <li>
-                        <h5>PE</h5>
-                        <h4>Paul Eastin</h4>
+                        <h5>NF</h5>
+                        <h4>Norman F.</h4>
                         <h6>Asistant Manager</h6>
-                        <p>Astonishingly brilliant! Maxis Technologies delivered a website beyond imagination. A true masterpiece of creativity and functionality. Highly recommended</p>
+                        <p>Maxis Technologies excels in SEO improvements. Their careful techniques immensely boosted our brand’s web exposure. </p>
                         <div class="stars">
                             <i class="fa-solid fa-star"></i>
                             <i class="fa-solid fa-star"></i>
@@ -191,8 +190,8 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="form_inner">
-                    <h2>Providing the Level of Digital Services You Need. No More. No Less.</h2>
-                    <p>Contact us, and we’ll give you a tour of our success strategy and tell you how we can help you build your incredible online presence.</p>
+                    <h2>Get Off the Chart Results </h2>
+                    <p>We implement precise strategies that help you increase your web traffic while increasing organic leads. Are you ready to outperform your competition? Contact us. </p>
                     <form action="/leads/" method="POST">
                         <input type="text" name="name" placeholder="Name" required>
                         <input type="number" name="phone" placeholder="Phone Number" required>

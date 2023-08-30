@@ -21,9 +21,8 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="inner_banner service_inner inner_service_pg">
-                    <h1>App Design And Development</h1>
-                    <h1>Service Help Your Brand</h1>
-                    <h1>Get Exposure It Deserves</h1>                    
+                    <h1>PREMIUM MOBILE APP DESIGN </h1>
+                    <h1>AND DEVELOPMENT</h1>                    
                 </div>  
                                          
             </div>        
@@ -31,13 +30,17 @@
         <div class="row mt-5">
             <div class="col-md-7">
             <div class="simple_para">
-                <p>Maxis Technologies focuses on developing purpose-driven mobile applications that significantly enhance the overall revenue of your business. Our application design and development services are bound to leave your audience impressed.</p>
+                <p>Overcome development hurdles and launch a glitch-free app with Maxis Technologies. We address users’ pain points during the app development process, ensuring every tap, swipe, and scroll adapts to their experience.</p>
             </div>
             <div class="inner_points_servcies">
                     <ul>
-                        <li>Extraordinary cross-platform mobile development</li>
-                        <li>Deliverance of high-quality user experience</li>
-                        <li>Excellent compatibility across all devices</li>
+                        <li>High Retention Rate  </li>
+                        <li>Seamless Interfaces </li>
+                        <li>Design & Aesthetic Focused </li>
+                        <li>Feature-rich, high-performing  </li>
+                        <li>After Deployment Support  </li>
+                        <li>Android, iOS, Cross Platform, Web app, Hybrid, and More</li>
+                        <li>After Deployment Support  </li>
                     </ul>
                 </div>    
             </div>           
@@ -51,8 +54,8 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="logo_inner_page">
-                    <h1 class="checking">Some Of Our Amazing Works We Are Proud To Show Off</h1>
-                    <p class="checking2">Check out some of the enticing mobile applications we developed for our valuable clients.</p>
+                    <h1 class="checking">Our Hall-of-Fame  </h1>
+                    <p class="checking2">Our Mobile app design & development portfolio is a testament to the amazing mobile experiences we deliver for our clients.</p>
                 </div>
                 <div class="design_logo">
                     <ul>
@@ -80,9 +83,9 @@
         <div class="row">
             <div class="col-md-12"> 
                 <div class="global_heading background-text">
-                    <h2 class="right background-text__item">THEY</h2>
-                    <h2 class="center background-text__item">wHAT THEY</h2>
-                    <h2 class="left background-text__item">WHAT <span>SAY</span></h2>
+                    <h2 class="right background-text__item">What</h2>
+                    <h2 class="center background-text__item">Our Clients </h2>
+                    <h2 class="left background-text__item">Think</h2>
                 </div> 
             </div>
         </div>
@@ -92,10 +95,10 @@
             <div class="testimonial_boxes mt-5">
                 <ul class="testimonial_slider">
                     <li>
-                        <h5>MA</h5>
-                        <h4>MARK ANTHONY</h4>
+                        <h5>Sj</h5>
+                        <h4>Suzan J.</h4>
                         <h6>Brand Manager</h6>
-                        <p>Pleased with the kind of professionalism shown by Astros’ designing team. professionalism shown by Astros’ designing team.</p>
+                        <p>I was honestly so lost before reaching out to Maxis Technologies. I had this vague idea for an app, but their team helped refine it and made it come to life. It’s like they read my mind. </p>
                         <div class="stars">
                             <i class="fa-solid fa-star"></i>
                             <i class="fa-solid fa-star"></i>
@@ -104,10 +107,10 @@
                         </div>
                     </li>
                     <li>
-                        <h5>PY</h5>
-                        <h4>Patricia Yang</h4>
+                        <h5>DH</h5>
+                        <h4>Drew H.</h4>
                         <h6>Managing Director</h6>
-                        <p>“The project managers ensured that the whole process goes swift and smooth. To my surprise, they delivered the work before the delivery date. And they got it exactly right. Ecstatic with the services.”</p>
+                        <p>My biggest fear was ending up with an app that looked good but was a nightmare to navigate. Thankfully, Maxis really prioritized user experience. The end result is intuitive and just...easy. </p>
                         <div class="stars">
                             <i class="fa-solid fa-star"></i>
                             <i class="fa-solid fa-star"></i>
@@ -116,10 +119,10 @@
                         </div>
                     </li>
                     <li>
-                        <h5>CS</h5>
-                        <h4>Carol Shaw</h4>
+                        <h5>PG</h5>
+                        <h4>Pike G.</h4>
                         <h6>Brand Owner</h6>
-                        <p>“Maxis Technologies was incredibly accommodating and efficient. They kept us updated throughout and ensured that all of our demands were incorporated into the campaign. Phenomenal experience.”</p>
+                        <p>I’ve worked with other developers before, and communication was always a challenge. With Maxis, it was different. They listened, addressed my concerns, and delivered on their promises. It felt collaborative, not combative. </p>
                         <div class="stars">
                             <i class="fa-solid fa-star"></i>
                             <i class="fa-solid fa-star"></i>
@@ -128,10 +131,10 @@
                         </div>
                     </li>
                     <li>
-                        <h5>ST</h5>
-                        <h4>Stephen M. Todd</h4>
+                        <h5>CT</h5>
+                        <h4>Carla T.</h4>
                         <h6>Head of Operations</h6>
-                        <p>I recently had the absolute pleasure of working with the remarkable team at Maxis Technologies. From the moment I stumbled upon their website, I knew I was in for something extraordinary. As a seasoned connoisseur of digital aesthetics, I can confidently say that Maxis Technologies is in a league of its own.</p>
+                        <p>The tech world can be so intimidating! Maxis Technologies made me feel at ease. They broke down complex mumbo jumbo and guided me at every step. My app looks and works beautifully now. </p>
                         <div class="stars">
                             <i class="fa-solid fa-star"></i>
                             <i class="fa-solid fa-star"></i>
@@ -140,10 +143,10 @@
                         </div>
                     </li>
                     <li>
-                        <h5>MA</h5>
-                        <h4>Moses Jones</h4>
+                        <h5>MM</h5>
+                        <h4>Mindy M.</h4>
                         <h6>Client Relationship Manager</h6>
-                        <p>Unparalleled excellence! Maxis Technologies miraculously turned my vision into a captivating digital reality. Their prowess is unmatched.</p>
+                        <p>I had a tight budget and was worried about overruns or hidden costs. Maxis was transparent about pricing and really worked with me to find solutions that didn’t break the bank.</p>
                         <div class="stars">
                             <i class="fa-solid fa-star"></i>
                             <i class="fa-solid fa-star"></i>
@@ -152,10 +155,10 @@
                         </div>
                     </li>
                     <li>
-                        <h5>PE</h5>
-                        <h4>Paul Eastin</h4>
+                        <h5>SC</h5>
+                        <h4>Sara C.</h4>
                         <h6>Asistant Manager</h6>
-                        <p>Astonishingly brilliant! Maxis Technologies delivered a website beyond imagination. A true masterpiece of creativity and functionality. Highly recommended</p>
+                        <p>One thing I truly appreciated about Maxis was their proactive approach. They anticipated potential issues and came up with solutions before they became real problems. Their foresight saved me time and stress</p>
                         <div class="stars">
                             <i class="fa-solid fa-star"></i>
                             <i class="fa-solid fa-star"></i>
@@ -177,8 +180,8 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="form_inner">
-                    <h2>Providing the Level of Digital Services You Need. No More. No Less.</h2>
-                    <p>Contact us, and we’ll give you a tour of our success strategy and tell you how we can help you build your incredible online presence.</p>
+                    <h2>Creative App Design and Development for iOS, Android, and beyond!</h2>
+                    <p>Contact us, and we’ll give you a tour of our scalable, strategy-led process and how it can help you maximize your online brand presence.</p>
                     <form action="/leads/" method="POST">
                         <input type="text" name="name" placeholder="Name" required>
                         <input type="number" name="phone" placeholder="Phone Number" required>

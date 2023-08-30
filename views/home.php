@@ -22,10 +22,10 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="inner_banner">
-                    <h1>we are A Digital </h1>
-                    <h1>agency that </h1>
-                    <h1>delivers</h1>
-                    <p>Redefine Your Digital Presence</p>
+                    <h1>Empowering</h1>
+                    <h1>Success in the </h1>
+                    <h1>Digital Era</h1>
+                    <p>Creating Solutions for an Ever-Changing Tech Landscape </p>
                 </div>
                 <div class="global_button">
                     <a href="javascript: void(0);" data-bs-toggle="modal" data-bs-target="#exampleModal">LETS GET STARTED <span><img src="assets/images/rocket.png" alt=""></span></a>
@@ -60,8 +60,8 @@
         <div class="row border_wrap mt-5 align-items-center" data-aos="fade-left" data-aos-duration="1500">
             <div class="col-md-6">
                 <div class="service_box">
-                    <h2>MOBILE APPS DEVELOPMENT</h2>
-                    <p>Custom coding and intuitive UI/UX designing in the mobile applications for Android and iOS is our forte.</p>
+                    <h2>MOBILE APP DEVELOPMENT</h2>
+                    <p>Intuitive designs, smart development, and custom coding for iOS and Android app development.</p>
                 </div>
             </div>
             <div class="col-md-6">
@@ -79,7 +79,7 @@
             <div class="col-md-6">
                 <div class="service_box">
                     <h2>Website DEVELOPMENT</h2>
-                    <p>The word “web development” fall into custom coding, personalization, theme building, and we are well-versed in all.</p>
+                    <p>Creating robust, scalable, and optimized platforms for peak performance, ensuring a seamless experience across devices and platforms.</p>
                 </div>
             </div>
         </div>
@@ -87,7 +87,7 @@
             <div class="col-md-6">
                 <div class="service_box">
                     <h2>DIGITAL MARKETING</h2>
-                    <p>Our marketing gurus give complete attention to each customer and offer them a personalized yet action-drive solutions for success.</p>
+                    <p>Maximizing your audience through effective strategies and digital marketing expertise. </p>
                 </div>
             </div>
             <div class="col-md-6">
@@ -105,7 +105,7 @@
             <div class="col-md-6">
                 <div class="service_box">
                     <h2>BRanding Strategy</h2>
-                    <p>With an overwhelming number of brand frameworks, it can be hard to choose a starting point. Let’s simplify your marketing goals with Maxis Technologies.</p>
+                    <p>Leverage new trends and possibilities to stay relevant to the industry while expanding your growth</p>
                 </div>
             </div>
         </div>                 
@@ -120,10 +120,10 @@
             <div class="col-md-12">
                 <div class="heading_wrap">
                     <ul class="background-text">
-                        <li class="background-text__item">Work <span>LETS WORk</span></li>
-                        <li class="background-text__item new_li_wrap">Together? <span>To</span></li>
+                        <li class="background-text__item">Let’s <span>Build Something</span></li>
+                        <li class="background-text__item new_li_wrap">Amazing <span>Together</span></li>
                     </ul>
-                    <p><span>Contact us</span>, we don’t bite!</p>
+                    <p><span>Contact Us</span> to Discuss Your Idea</p>
                 </div>             
             </div>
         </div>      
@@ -137,8 +137,8 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="global_text">
-                    <h2>In a tech-savvy world where attention is of the essence.</h2>
-                    <p>Maxis Technologies helps in ensuring unbelievable brand experiences to the audiences that matter.</p>
+                    <h2>DELIVERING TECH-SAVVY AND SCALABLE RESULTS</h2>
+                    <p>Maxis Technologies is here to provide ideal support while you focus on your operations. Let’s lay the groundwork for your digital empire.</p>
                 </div>
             </div>
         </div>
@@ -240,9 +240,9 @@
         <div class="row">
             <div class="col-md-12"> 
                 <div class="global_heading background-text">
-                    <h2 class="right background-text__item">THEY</h2>
+                    <h2 class="right background-text__item">This Is</h2>
                     <h2 class="center background-text__item">wHAT THEY</h2>
-                    <h2 class="left background-text__item">WHAT <span>SAY</span></h2>
+                    <h2 class="left background-text__item">Believe <span>In</span></h2>
                 </div> 
             </div>
         </div>
@@ -252,10 +252,10 @@
             <div class="testimonial_boxes mt-5">
                 <ul class="testimonial_slider">
                     <li>
-                        <h5>MA</h5>
-                        <h4>MARK ANTHONY</h4>
+                        <h5>JG</h5>
+                        <h4>Johnna G.</h4>
                         <h6>Brand Manager</h6>
-                        <p>Pleased with the kind of professionalism shown by Astros’ designing team. professionalism shown by Astros’ designing team.</p>
+                        <p>We’ve been able to improve our corporate operations through CMS. They exceeded our expectations</p>
                         <div class="stars">
                             <i class="fa-solid fa-star"></i>
                             <i class="fa-solid fa-star"></i>
@@ -264,10 +264,10 @@
                         </div>
                     </li>
                     <li>
-                        <h5>PY</h5>
-                        <h4>Patricia Yang</h4>
+                        <h5>TM</h5>
+                        <h4>Tony M.</h4>
                         <h6>Managing Director</h6>
-                        <p>“The project managers ensured that the whole process goes swift and smooth. To my surprise, they delivered the work before the delivery date. And they got it exactly right. Ecstatic with the services.”</p>
+                        <p>Maxis Technologies made our website attractive and functional. They listened to our needs and created a beautiful platform.</p>
                         <div class="stars">
                             <i class="fa-solid fa-star"></i>
                             <i class="fa-solid fa-star"></i>
@@ -276,10 +276,10 @@
                         </div>
                     </li>
                     <li>
-                        <h5>CS</h5>
-                        <h4>Carol Shaw</h4>
+                        <h5>CB</h5>
+                        <h4>Casandra B.</h4>
                         <h6>Brand Owner</h6>
-                        <p>“Maxis Technologies was incredibly accommodating and efficient. They kept us updated throughout and ensured that all of our demands were incorporated into the campaign. Phenomenal experience.”</p>
+                        <p>Their data-driven marketing helped us increase our web traffic significantly</p>
                         <div class="stars">
                             <i class="fa-solid fa-star"></i>
                             <i class="fa-solid fa-star"></i>
@@ -288,10 +288,10 @@
                         </div>
                     </li>
                     <li>
-                        <h5>ST</h5>
-                        <h4>Stephen M. Todd</h4>
+                        <h5>SC</h5>
+                        <h4>Simon Conner</h4>
                         <h6>Head of Operations</h6>
-                        <p>I recently had the absolute pleasure of working with the remarkable team at Maxis Technologies. From the moment I stumbled upon their website, I knew I was in for something extraordinary. As a seasoned connoisseur of digital aesthetics, I can confidently say that Maxis Technologies is in a league of its own.</p>
+                        <p>They effectively discovered our brand’s potential. They strengthened our brand identity and clearly conveyed our message to our audience. </p>
                         <div class="stars">
                             <i class="fa-solid fa-star"></i>
                             <i class="fa-solid fa-star"></i>
@@ -337,8 +337,8 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="form_inner">
-                    <h2>Providing the Level of Digital Services You Need. No More. No Less.</h2>
-                    <p>Contact us, and we’ll give you a tour of our success strategy and tell you how we can help you build your incredible online presence.</p>
+                    <h2>We Have What Every Online Business Needs at Their Side: Proven Experience!</h2>
+                    <p>Contact us to discuss your project details and learn more about how our success strategy can help you create an incredible online presence.</p>
                     <form action="/leads/" method="POST">
                         <input type="text" name="name" placeholder="Name" required>
                         <input type="number" name="phone" placeholder="Phone Number" required>

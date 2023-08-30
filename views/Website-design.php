@@ -21,9 +21,8 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="inner_banner service_inner inner_service_pg">
-                    <h1>Website Design And</h1>
-                    <h1>Development Services</h1>
-                    <h1>Help Make a Difference.</h1>                    
+                    <h1>COMPREHENSIVE WEBSITE</h1> 
+                    <h1>DESIGN AND DEVELOPMENT SERVICES</h1>                    
                 </div>  
                                          
             </div>        
@@ -31,13 +30,13 @@
         <div class="row mt-5">
             <div class="col-md-7">
             <div class="simple_para">
-                <p>We help you build an eye-catching, customer-centric website design that speaks out the true vision of your business and brand. Our development experts possess the skills to turn to offer a high-quality user experience that never fails to impress the audience.</p>
+                <p>Deliver dynamic online experiences to engage and convert regular visitors into dedicated customers through Maxis Technologies.</p>
             </div>
             <div class="inner_points_servcies">
                     <ul>
-                        <li>Customized website development to attain lasting business success</li>
-                        <li>Turning any plan into an impressive design layout</li>
-                        <li>Implementing advanced strategies to breathe life in the website</li>
+                        <li>Vocalize your brand persona and improve user experiences</li>
+                        <li>Make your designs responsive for any device and platform </li>
+                        <li>Create aesthetically appealing, feature-rich websites to maximize growth</li>
                     </ul>
                 </div>    
             </div>           
@@ -51,8 +50,8 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="logo_inner_page">
-                    <h1 class="checking">Some Of Our Amazing Works We Are Proud To Show Off</h1>
-                    <p class="checking2">Check out our awesome portfolio to witness the reality of our exceptional web design and development skills.</p>
+                    <h1 class="checking">Highly Praised and Adored Projects</h1>
+                    <p class="checking2">Highly Praised and Adored Projects</p>
                 </div>
                 <div class="psd_points">
                 <ul class="imglist">
@@ -98,9 +97,9 @@
         <div class="row">
             <div class="col-md-12"> 
                 <div class="global_heading background-text">
-                    <h2 class="right background-text__item">THEY</h2>
-                    <h2 class="center background-text__item">wHAT THEY</h2>
-                    <h2 class="left background-text__item">WHAT <span>SAY</span></h2>
+                    <h2 class="right background-text__item">WHAT</h2>
+                    <h2 class="center background-text__item">Our Client</h2>
+                    <h2 class="left background-text__item">Think</h2>
                 </div> 
             </div>
         </div>
@@ -110,10 +109,10 @@
             <div class="testimonial_boxes mt-5">
                 <ul class="testimonial_slider">
                     <li>
-                        <h5>MA</h5>
-                        <h4>MARK ANTHONY</h4>
+                        <h5>JN</h5>
+                        <h4>Julie N.</h4>
                         <h6>Brand Manager</h6>
-                        <p>Pleased with the kind of professionalism shown by Astros’ designing team. professionalism shown by Astros’ designing team.</p>
+                        <p>Their competence and commitment are truly commendable </p>
                         <div class="stars">
                             <i class="fa-solid fa-star"></i>
                             <i class="fa-solid fa-star"></i>
@@ -122,10 +121,10 @@
                         </div>
                     </li>
                     <li>
-                        <h5>PY</h5>
-                        <h4>Patricia Yang</h4>
+                        <h5>SC</h5>
+                        <h4>Sonia C.</h4>
                         <h6>Managing Director</h6>
-                        <p>“The project managers ensured that the whole process goes swift and smooth. To my surprise, they delivered the work before the delivery date. And they got it exactly right. Ecstatic with the services.”</p>
+                        <p>Maxis Technologies’ unique website creation impressed me. Our site does not have any bugs, the downtime is reduced, and it’s fully functional now.</p>
                         <div class="stars">
                             <i class="fa-solid fa-star"></i>
                             <i class="fa-solid fa-star"></i>
@@ -134,10 +133,10 @@
                         </div>
                     </li>
                     <li>
-                        <h5>CS</h5>
-                        <h4>Carol Shaw</h4>
+                        <h5>MB</h5>
+                        <h4>Max B. </h4>
                         <h6>Brand Owner</h6>
-                        <p>“Maxis Technologies was incredibly accommodating and efficient. They kept us updated throughout and ensured that all of our demands were incorporated into the campaign. Phenomenal experience.”</p>
+                        <p>Smooth approach, creative designs, and quick delivery. Happy with the result!</p>
                         <div class="stars">
                             <i class="fa-solid fa-star"></i>
                             <i class="fa-solid fa-star"></i>
@@ -146,10 +145,10 @@
                         </div>
                     </li>
                     <li>
-                        <h5>ST</h5>
-                        <h4>Stephen M. Todd</h4>
+                        <h5>JM</h5>
+                        <h4>Judy M.</h4>
                         <h6>Head of Operations</h6>
-                        <p>I recently had the absolute pleasure of working with the remarkable team at Maxis Technologies. From the moment I stumbled upon their website, I knew I was in for something extraordinary. As a seasoned connoisseur of digital aesthetics, I can confidently say that Maxis Technologies is in a league of its own.</p>
+                        <p>Throughout the project cycle, they kept me in the loop and made decisions that were in favor of my website. I can now blindly trust their expertise and professionalism. </p>
                         <div class="stars">
                             <i class="fa-solid fa-star"></i>
                             <i class="fa-solid fa-star"></i>
@@ -159,9 +158,9 @@
                     </li>
                     <li>
                         <h5>MA</h5>
-                        <h4>Moses Jones</h4>
+                        <h4>Mary A</h4>
                         <h6>Client Relationship Manager</h6>
-                        <p>Unparalleled excellence! Maxis Technologies miraculously turned my vision into a captivating digital reality. Their prowess is unmatched.</p>
+                        <p>Highly pleased! They designed my website exactly the way I wanted. Although I had to get them to make some revisions, all was worthwhile</p>
                         <div class="stars">
                             <i class="fa-solid fa-star"></i>
                             <i class="fa-solid fa-star"></i>
@@ -170,10 +169,10 @@
                         </div>
                     </li>
                     <li>
-                        <h5>PE</h5>
-                        <h4>Paul Eastin</h4>
+                        <h5>MH</h5>
+                        <h4>Mike H.</h4>
                         <h6>Asistant Manager</h6>
-                        <p>Astonishingly brilliant! Maxis Technologies delivered a website beyond imagination. A true masterpiece of creativity and functionality. Highly recommended</p>
+                        <p>Their website development improved our website visibility by embedding the keywords strategically and optimizing the site for maximum reach. Great effort! </p>
                         <div class="stars">
                             <i class="fa-solid fa-star"></i>
                             <i class="fa-solid fa-star"></i>
@@ -195,8 +194,8 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="form_inner">
-                    <h2>Providing the Level of Digital Services You Need. No More. No Less.</h2>
-                    <p>Contact us, and we’ll give you a tour of our success strategy and tell you how we can help you build your incredible online presence.</p>
+                    <h2>Get Exceptional Customer Support for Website Design and Development</h2>
+                    <p>We are all ears to hear your questions and concerns. Tell us your plan, and we’ll tell you how we can help you achieve it. Contact today.</p>
                     <form action="/leads/" method="POST">
                         <input type="text" name="name" placeholder="Name" required>
                         <input type="number" name="phone" placeholder="Phone Number" required>

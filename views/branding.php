@@ -21,9 +21,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="inner_banner service_inner inner_service_pg">
-                    <h1>Build a brand </h1>
-                    <h1>identity that is easily </h1>
-                    <h1>recognizable</h1>                    
+                    <h1>TURNING YOUR BUSINESS INTO A DISTINCT BRAND</h1>                    
                 </div>  
                                          
             </div>        
@@ -31,13 +29,14 @@
         <div class="row mt-5">
             <div class="col-md-7">
             <div class="simple_para">
-                <p>Maxis Technologies helps you in letting the world know your brand’s real personality. It is a significant way to offer your business a unique positioning that distinguishes you from others.</p>
+                <p>TURNING YOUR BUSINESS INTO A DISTINCT BRAND</p>
             </div>
             <div class="inner_points_servcies">
                     <ul>
-                        <li>Unique Brand identity</li>
-                        <li>Accurate Portrayal of your business</li>
-                        <li>Complete ownership of your design work</li>
+                        <li>Navigating Challenges, Amplifying Identity</li>
+                        <li>Crafting Brand's Success Story</li>
+                        <li>Promoting Unified Brand Messaging Across All Touchpoints</li>
+                        <li>Improving Customer Retention Rate </li>
                     </ul>
                 </div>    
             </div>           
@@ -51,8 +50,8 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="logo_inner_page">
-                    <h1 class="checking">Work that We Are Proud Of</h1>
-                    <p class="checking2">Here’s how we have helped our clients achieve their goals.</p>
+                    <h1 class="checking">ACCELERATING GROWTH THROUGH BRANDING SERVICES</h1>
+                    <p class="checking2">Here are some of the brands that we have designed and developed from scratch, and now they are reputable in their respective industries.</p>
                 </div>
                 <div class="design_logo">
                     <ul>
@@ -77,9 +76,9 @@
         <div class="row">
             <div class="col-md-12"> 
                 <div class="global_heading background-text">
-                    <h2 class="right background-text__item">THEY</h2>
-                    <h2 class="center background-text__item">wHAT THEY</h2>
-                    <h2 class="left background-text__item">WHAT <span>SAY</span></h2>
+                    <h2 class="right background-text__item">What</h2>
+                    <h2 class="center background-text__item">Our Clients</h2>
+                    <h2 class="left background-text__item">Think</h2>
                 </div> 
             </div>
         </div>
@@ -89,10 +88,10 @@
             <div class="testimonial_boxes mt-5">
                 <ul class="testimonial_slider">
                     <li>
-                        <h5>MA</h5>
-                        <h4>MARK ANTHONY</h4>
+                        <h5>MS</h5>
+                        <h4>Martha S. </h4>
                         <h6>Brand Manager</h6>
-                        <p>Pleased with the kind of professionalism shown by Astros’ designing team. professionalism shown by Astros’ designing team.</p>
+                        <p>Our brand's message was all over the place before Maxis Technologies stepped in. Their guidance helped us streamline our communication. Now, we're connecting better with customers, thanks to a clearer and more consistent brand voice.</p>
                         <div class="stars">
                             <i class="fa-solid fa-star"></i>
                             <i class="fa-solid fa-star"></i>
@@ -101,10 +100,10 @@
                         </div>
                     </li>
                     <li>
-                        <h5>PY</h5>
-                        <h4>Patricia Yang</h4>
+                        <h5>TM</h5>
+                        <h4>Thomas M.</h4>
                         <h6>Managing Director</h6>
-                        <p>“The project managers ensured that the whole process goes swift and smooth. To my surprise, they delivered the work before the delivery date. And they got it exactly right. Ecstatic with the services.”</p>
+                        <p>Their experts revamped our visuals and gave us a cohesive look. Customers can now spot us easily, whether it's Facebook or Instagram. It's a relief to have a consistent online presence. </p>
                         <div class="stars">
                             <i class="fa-solid fa-star"></i>
                             <i class="fa-solid fa-star"></i>
@@ -113,10 +112,10 @@
                         </div>
                     </li>
                     <li>
-                        <h5>CS</h5>
-                        <h4>Carol Shaw</h4>
+                        <h5>SJ</h5>
+                        <h4>Simon J.</h4>
                         <h6>Brand Owner</h6>
-                        <p>“Maxis Technologies was incredibly accommodating and efficient. They kept us updated throughout and ensured that all of our demands were incorporated into the campaign. Phenomenal experience.”</p>
+                        <p>Maxis Technologies' branding provided our company with a new look. Our brand now attracts more consumers than ever before.</p>
                         <div class="stars">
                             <i class="fa-solid fa-star"></i>
                             <i class="fa-solid fa-star"></i>
@@ -125,10 +124,10 @@
                         </div>
                     </li>
                     <li>
-                        <h5>ST</h5>
-                        <h4>Stephen M. Todd</h4>
+                        <h5>TC</h5>
+                        <h4>Tyron C.</h4>
                         <h6>Head of Operations</h6>
-                        <p>I recently had the absolute pleasure of working with the remarkable team at Maxis Technologies. From the moment I stumbled upon their website, I knew I was in for something extraordinary. As a seasoned connoisseur of digital aesthetics, I can confidently say that Maxis Technologies is in a league of its own.</p>
+                        <p>We were worried about the budget for branding, but Maxis Technologies worked within our means. They helped us prioritize the essential aspects that made a real impact. The results have been gradual but promising, and we're seeing steady growth without straining our resources </p>
                         <div class="stars">
                             <i class="fa-solid fa-star"></i>
                             <i class="fa-solid fa-star"></i>
@@ -137,10 +136,10 @@
                         </div>
                     </li>
                     <li>
-                        <h5>MA</h5>
-                        <h4>Moses Jones</h4>
+                        <h5>DT</h5>
+                        <h4>Danny T.</h4>
                         <h6>Client Relationship Manager</h6>
-                        <p>Unparalleled excellence! Maxis Technologies miraculously turned my vision into a captivating digital reality. Their prowess is unmatched.</p>
+                        <p>Maxis Technologies did some market analysis and helped us carve a niche. It's not a drastic change, but we're no longer lost in the crowd. </p>
                         <div class="stars">
                             <i class="fa-solid fa-star"></i>
                             <i class="fa-solid fa-star"></i>
@@ -149,10 +148,10 @@
                         </div>
                     </li>
                     <li>
-                        <h5>PE</h5>
-                        <h4>Paul Eastin</h4>
+                        <h5>TC</h5>
+                        <h4>Tara C.</h4>
                         <h6>Asistant Manager</h6>
-                        <p>Astonishingly brilliant! Maxis Technologies delivered a website beyond imagination. A true masterpiece of creativity and functionality. Highly recommended</p>
+                        <p>Scaling always worried us, fearing we'd lose our identity. Maxis Technologies helped us adapt without compromising our core values. They adjusted our brand guidelines, which keeps us grounded while expanding. </p>
                         <div class="stars">
                             <i class="fa-solid fa-star"></i>
                             <i class="fa-solid fa-star"></i>
@@ -173,8 +172,8 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="form_inner">
-                    <h2>Providing the Level of Digital Services You Need. No More. No Less.</h2>
-                    <p>Contact us, and we’ll give you a tour of our success strategy and tell you how we can help you build your incredible online presence.</p>
+                    <h2>Great Businesses Require a Great Brand Image</h2>
+                    <p>Navigating the complexities of creating a strong online presence, including social media, website, and digital marketing, is a challenge. Contact us to learn how we can help! </p>
                     <form action="/leads/" method="POST">
                         <input type="text" name="name" placeholder="Name" required>
                         <input type="number" name="phone" placeholder="Phone Number" required>

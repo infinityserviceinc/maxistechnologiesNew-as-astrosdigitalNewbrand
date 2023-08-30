@@ -21,10 +21,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="inner_banner service_inner">
-                    <h1>WRITE YOUR IMAGINATION</h1>
-                    <h1> CAPTIVATING STORIES</h1>
-                    <h1>PROFESSIONAL BOOK</h1>        
-                    <h1> WRITERS!</h1>                             
+                    <h1>Crafting Masterpieces Across All Genres </h1>                             
                 </div>  
                 <div class="service_points">
                     <ul>
@@ -42,7 +39,14 @@
             <div class="col-md-7"></div>
             <div class="col-md-5">
                 <div class="simple_para">
-                    <p>We’re your one-stop destination agency for all your ghostwriting needs, amazing packages and bundles and affordable solutions.</p>
+                    <p>We create inspiring, engaging, and enduring tales with limitless imagination. And if it is non-fiction, we deliver factually accurate and well-researched content. Our unique value proposition? We’ve experts from all writing niches and genres in our team.  </p>
+                    <ul>
+                        <li>Captivating Narratives </li>
+                        <li>Great Characterization </li>
+                        <li>Reflecting Voice, Style, And Vision</li>
+                        <li>Time-Effective and Efficient </li>
+
+                    </ul>
                 </div>
             </div>
         </div>   
@@ -100,7 +104,8 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="book_inner">
-                    <h2>The Key Reasons Maxis Technologies Stands Out</h2>
+                    <h2>HERE IS OUR TOP-OF-THE-SHELF LITERATURE</h2>
+                    <p>Check out our successful portfolio that has turned our clients into bestsellers in record time.</p>
                 </div>
             </div>
         </div>
@@ -208,9 +213,9 @@
         <div class="row">
             <div class="col-md-12"> 
                 <div class="global_heading background-text">
-                    <h2 class="right background-text__item">THEY</h2>
-                    <h2 class="center">wHAT THEY</h2>
-                    <h2 class="left background-text__item">WHAT <span>SAY</span></h2>
+                    <h2 class="right background-text__item">What</h2>
+                    <h2 class="center">Our Client</h2>
+                    <h2 class="left background-text__item">Think</h2>
                 </div> 
             </div>
         </div>
@@ -220,10 +225,10 @@
             <div class="testimonial_boxes">
                 <ul class="testimonial_slider">
                     <li>
-                        <h5>MA</h5>
-                        <h4>MARK ANTHONY</h4>
+                        <h5>DA</h5>
+                        <h4>Drew A.</h4>
                         <h6>Brand Manager</h6>
-                        <p>Pleased with the kind of professionalism shown by Astros’ designing team. The logo was fantastic and the experience was beyond amazing. I don’t recall working with such creative artists before. Would definitely be coming to them for more services soon</p>
+                        <p>I dreamt of writing a book but lacked the time and skill. Maxis Technologies paired me with a ghostwriter who understood my vision. We collaborated seamlessly, and my book was crafted authentically. It’s not an overnight transformation, but it’s a dream realized with their patient support. </p>
                         <div class="stars">
                             <i class="fa-solid fa-star"></i>
                             <i class="fa-solid fa-star"></i>
@@ -232,10 +237,10 @@
                         </div>
                     </li>
                     <li>
-                        <h5>PY</h5>
-                        <h4>Patricia Yang</h4>
+                        <h5>JG</h5>
+                        <h4>Johnna G</h4>
                         <h6>Managing Director</h6>
-                        <p>“The project managers ensured that the whole process goes swift and smooth. To my surprise, they delivered the work before the delivery date. And they got it exactly right. Ecstatic with the services.”</p>
+                        <p>Maxis Technologies’ book writing has greatly impressed me. They improved my book’s appeal and edited my manuscript to perfection</p>
                         <div class="stars">
                             <i class="fa-solid fa-star"></i>
                             <i class="fa-solid fa-star"></i>
@@ -244,10 +249,10 @@
                         </div>
                     </li>
                     <li>
-                        <h5>CS</h5>
-                        <h4>Carol Shaw</h4>
+                        <h5>CL</h5>
+                        <h4>Conner L.</h4>
                         <h6>Brand Owner</h6>
-                        <p>“Maxis Technologies was incredibly accommodating and efficient. They kept us updated throughout and ensured that all of our demands were incorporated into the campaign. Phenomenal experience.”</p>
+                        <p>Maxis Technologies distinguished my book in a competitive market. Their writing is unsurpassed by any of the services I hired in the past. </p>
                         <div class="stars">
                             <i class="fa-solid fa-star"></i>
                             <i class="fa-solid fa-star"></i>
@@ -256,10 +261,10 @@
                         </div>
                     </li>
                     <li>
-                        <h5>ST</h5>
-                        <h4>Stephen M. Todd</h4>
+                        <h5>TJ</h5>
+                        <h4>Timmy J.</h4>
                         <h6>Head of Operations</h6>
-                        <p>I recently had the absolute pleasure of working with the remarkable team at Maxis Technologies. From the moment I stumbled upon their website, I knew I was in for something extraordinary. As a seasoned connoisseur of digital aesthetics, I can confidently say that Maxis Technologies is in a league of its own.</p>
+                        <p>Research for historical accuracy was slowing my writing down. Maxis Technologies connected me with a writer experienced in historical fiction. Their meticulous research filled gaps in my narrative, making the story more immersive. The result is a book that feels grounded and genuine</p>
                         <div class="stars">
                             <i class="fa-solid fa-star"></i>
                             <i class="fa-solid fa-star"></i>
@@ -268,10 +273,10 @@
                         </div>
                     </li>
                     <li>
-                        <h5>MA</h5>
-                        <h4>Moses Jones</h4>
+                        <h5>MT</h5>
+                        <h4>Martha T</h4>
                         <h6>Client Relationship Manager</h6>
-                        <p>Unparalleled excellence! Maxis Technologies miraculously turned my vision into a captivating digital reality. Their prowess is unmatched.</p>
+                        <p>Writing non-fiction was new to me, and organizing my ideas was overwhelming. Maxis Technologies introduced me to a writer who excelled in structuring information. With their guidance, my book is informative yet engaging, striking the right balance that I struggled with on my own. </p>
                         <div class="stars">
                             <i class="fa-solid fa-star"></i>
                             <i class="fa-solid fa-star"></i>
@@ -280,10 +285,10 @@
                         </div>
                     </li>
                     <li>
-                        <h5>PE</h5>
-                        <h4>Paul Eastin</h4>
+                        <h5>SM</h5>
+                        <h4> Stephone M.</h4>
                         <h6>Asistant Manager</h6>
-                        <p>Astonishingly brilliant! Maxis Technologies delivered a website beyond imagination. A true masterpiece of creativity and functionality. Highly recommended</p>
+                        <p>The experts helped me revamp my manuscript, deeply edited the plot inaccuracies, improved characters, and made the story distinct and engaging </p>
                         <div class="stars">
                             <i class="fa-solid fa-star"></i>
                             <i class="fa-solid fa-star"></i>
@@ -305,8 +310,8 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="form_inner">
-                    <h2>Providing the Level of Digital Services You Need. No More. No Less.</h2>
-                    <p>Contact us, and we’ll give you a tour of our success strategy and tell you how we can help you build your incredible online presence.</p>
+                    <h2>Writing, Editing, and Proofreading –All in One! </h2>
+                    <p>Make your work publish-ready with comprehensive book-writing services. Contact us to learn how we can help! </p>
                     <form action="/leads/" method="POST">
                         <input type="text" name="name" placeholder="Name" required>
                         <input type="number" name="phone" placeholder="Phone Number" required>
