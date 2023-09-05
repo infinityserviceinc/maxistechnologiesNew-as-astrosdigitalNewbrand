@@ -77,16 +77,95 @@
             <div class="col-md-12"> 
                 <div class="global_heading background-text">
                     <h2 class="right background-text__item">What</h2>
-                    <h2 class="center background-text__item">Our Clients</h2>
+                    <h2 class="center background-text__item">our clientss</h2>
                     <h2 class="left background-text__item">Think</h2>
                 </div> 
             </div>
         </div>
     </div>
     <div class="container">    
-        <div class="row mt-5">
+        <div class="row mt-5 desktop_none">
             <div class="testimonial_boxes mt-5">
                 <ul class="testimonial_slider">
+                    <li>
+                        <h5>MS</h5>
+                        <h4>Martha S. </h4>
+                        <h6>Brand Manager</h6>
+                        <p>Our brand's message was all over the place before Maxis Technologies stepped in. Their guidance helped us streamline our communication. Now, we're connecting better with customers, thanks to a clearer and more consistent brand voice.</p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>TM</h5>
+                        <h4>Thomas M.</h4>
+                        <h6>Managing Director</h6>
+                        <p>Their experts revamped our visuals and gave us a cohesive look. Customers can now spot us easily, whether it's Facebook or Instagram. It's a relief to have a consistent online presence. </p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>SJ</h5>
+                        <h4>Simon J.</h4>
+                        <h6>Brand Owner</h6>
+                        <p>Maxis Technologies' branding provided our company with a new look. Our brand now attracts more consumers than ever before.</p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>TC</h5>
+                        <h4>Tyron C.</h4>
+                        <h6>Head of Operations</h6>
+                        <p>We were worried about the budget for branding, but Maxis Technologies worked within our means. They helped us prioritize the essential aspects that made a real impact. The results have been gradual but promising, and we're seeing steady growth without straining our resources </p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>DT</h5>
+                        <h4>Danny T.</h4>
+                        <h6>Client Relationship Manager</h6>
+                        <p>Maxis Technologies did some market analysis and helped us carve a niche. It's not a drastic change, but we're no longer lost in the crowd. </p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>TC</h5>
+                        <h4>Tara C.</h4>
+                        <h6>Asistant Manager</h6>
+                        <p>Scaling always worried us, fearing we'd lose our identity. Maxis Technologies helped us adapt without compromising our core values. They adjusted our brand guidelines, which keeps us grounded while expanding. </p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <span class="enddd"></span>
+        </div>
+        <div class="row mt-5 mobile_none">
+            <div class="testimonial_boxes mt-5">
+                <ul class="testimonial_slider mobile_testimonial">
                     <li>
                         <h5>MS</h5>
                         <h4>Martha S. </h4>

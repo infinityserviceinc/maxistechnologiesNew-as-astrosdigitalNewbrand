@@ -85,16 +85,95 @@
             <div class="col-md-12"> 
                 <div class="global_heading background-text">
                     <h2 class="right background-text__item">What</h2>
-                    <h2 class="center background-text__item">Our Client</h2>
+                    <h2 class="center background-text__item">our clients</h2>
                     <h2 class="left background-text__item">Think</h2>
                 </div> 
             </div>
         </div>
     </div>
     <div class="container">    
-        <div class="row mt-5">
+        <div class="row mt-5 desktop_none">
             <div class="testimonial_boxes mt-5">
                 <ul class="testimonial_slider">
+                    <li>
+                        <h5>AK</h5>
+                        <h4>Anna K.</h4>
+                        <h6>Brand Manager</h6>
+                        <p>“With the ever-changing algorithms of platforms like Instagram, I often felt like I was just throwing content into the void. Maxis Technologies helped me get a grip on those changes, letting my posts actually reach the people I aimed for. Grateful for the clarity!”</p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>LM</h5>
+                        <h4>Luis M.</h4>
+                        <h6>Managing Director</h6>
+                        <p>“I was honestly feeling overwhelmed juggling content across various platforms. Ever since teaming up with Maxis Technologies, I’ve felt like there’s a real strategy to what I post and where. It’s genuine peace of mind.”</p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>HS</h5>
+                        <h4>Harpreet S</h4>
+                        <h6>Brand Owner</h6>
+                        <p>"Engaging with followers was becoming a chore, and I feared missing out on interactions. The experts at Maxis Technologies streamlined the process for me. Now, I’m more connected to my audience than ever without feeling overwhelmed.”</p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>FZ</h5>
+                        <h4>Fatima Z.</h4>
+                        <h6>Head of Operations</h6>
+                        <p>The ad costs on Facebook were steadily draining my budget with minimal returns. Maxis Technologies stepped in and refined my ad strategy. Not only am I spending smarter, but I’m also seeing better results.</p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>DV</h5>
+                        <h4>Derrick V.</h4>
+                        <h6>Client Relationship Manager</h6>
+                        <p>“Staying updated with social media trends felt like a full-time job. Maxis Technologies helped me prioritize and pick battles worth fighting. Their insights have been invaluable.”</p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>SL</h5>
+                        <h4>Sophia L.</h4>
+                        <h6>Asistant Manager</h6>
+                        <p>“I was skeptical about social media marketing after a few bad experiences with data breaches. Maxis Technologies showcased a transparent, privacy-focused approach that won my trust. Kudos for blending efficiency with ethics!” </p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <span class="enddd"></span>
+        </div>
+        <div class="row mt-5 mobile_none">
+            <div class="testimonial_boxes mt-5">
+                <ul class="testimonial_slider mobile_testimonial">
                     <li>
                         <h5>AK</h5>
                         <h4>Anna K.</h4>

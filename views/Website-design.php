@@ -98,16 +98,95 @@
             <div class="col-md-12"> 
                 <div class="global_heading background-text">
                     <h2 class="right background-text__item">WHAT</h2>
-                    <h2 class="center background-text__item">Our Client</h2>
+                    <h2 class="center background-text__item">our clients</h2>
                     <h2 class="left background-text__item">Think</h2>
                 </div> 
             </div>
         </div>
     </div>
     <div class="container">    
-        <div class="row mt-5">
+        <div class="row mt-5 desktop_none">
             <div class="testimonial_boxes mt-5">
                 <ul class="testimonial_slider">
+                    <li>
+                        <h5>JN</h5>
+                        <h4>Julie N.</h4>
+                        <h6>Brand Manager</h6>
+                        <p>Their competence and commitment are truly commendable </p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>SC</h5>
+                        <h4>Sonia C.</h4>
+                        <h6>Managing Director</h6>
+                        <p>Maxis Technologies’ unique website creation impressed me. Our site does not have any bugs, the downtime is reduced, and it’s fully functional now.</p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>MB</h5>
+                        <h4>Max B. </h4>
+                        <h6>Brand Owner</h6>
+                        <p>Smooth approach, creative designs, and quick delivery. Happy with the result!</p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>JM</h5>
+                        <h4>Judy M.</h4>
+                        <h6>Head of Operations</h6>
+                        <p>Throughout the project cycle, they kept me in the loop and made decisions that were in favor of my website. I can now blindly trust their expertise and professionalism. </p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>MA</h5>
+                        <h4>Mary A</h4>
+                        <h6>Client Relationship Manager</h6>
+                        <p>Highly pleased! They designed my website exactly the way I wanted. Although I had to get them to make some revisions, all was worthwhile</p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>MH</h5>
+                        <h4>Mike H.</h4>
+                        <h6>Asistant Manager</h6>
+                        <p>Their website development improved our website visibility by embedding the keywords strategically and optimizing the site for maximum reach. Great effort! </p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <span class="enddd"></span>
+        </div>
+        <div class="row mt-5 mobile_none">
+            <div class="testimonial_boxes mt-5">
+                <ul class="testimonial_slider mobile_testimonial">
                     <li>
                         <h5>JN</h5>
                         <h4>Julie N.</h4>

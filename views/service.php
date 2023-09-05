@@ -105,7 +105,7 @@
             <div class="col-md-12">
                 <div class="psd_inner">
                     <h2>Website Design & devlopment</h2>
-                    <p>We offer our clients digitally transformative and responsive designs<br> that provide concrete outcomes and strong online visibility.</p>
+                    <p>We offer our clientss digitally transformative and responsive designs<br> that provide concrete outcomes and strong online visibility.</p>
                 </div>
                 <div class="psd_points">
                     <ul class="imglist">
@@ -292,14 +292,93 @@
         </div>
     </div>
     <div class="container">    
-        <div class="row mt-5">
+        <div class="row mt-5 desktop_none">
             <div class="testimonial_boxes">
                 <ul class="testimonial_slider">
                     <li>
                         <h5>MA</h5>
                         <h4>MARK ANTHONY</h4>
                         <h6>Brand Manager</h6>
-                        <p>Pleased with the kind of professionalism shown by Astros’ designing team. The logo was fantastic and the experience was beyond amazing. I don’t recall working with such creative artists before. Would definitely be coming to them for more services soon</p>
+                        <p>Pleased with the kind of professionalism shown by Maxis designing team. The logo was fantastic and the experience was beyond amazing. I don’t recall working with such creative artists before. Would definitely be coming to them for more services soon</p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>PY</h5>
+                        <h4>Patricia Yang</h4>
+                        <h6>Managing Director</h6>
+                        <p>“The project managers ensured that the whole process goes swift and smooth. To my surprise, they delivered the work before the delivery date. And they got it exactly right. Ecstatic with the services.”</p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>CS</h5>
+                        <h4>Carol Shaw</h4>
+                        <h6>Brand Owner</h6>
+                        <p>“Maxis Technologies was incredibly accommodating and efficient. They kept us updated throughout and ensured that all of our demands were incorporated into the campaign. Phenomenal experience.”</p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>ST</h5>
+                        <h4>Stephen M. Todd</h4>
+                        <h6>Head of Operations</h6>
+                        <p>I recently had the absolute pleasure of working with the remarkable team at Maxis Technologies. From the moment I stumbled upon their website, I knew I was in for something extraordinary. As a seasoned connoisseur of digital aesthetics, I can confidently say that Maxis Technologies is in a league of its own.</p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>MA</h5>
+                        <h4>Moses Jones</h4>
+                        <h6>Client Relationship Manager</h6>
+                        <p>Unparalleled excellence! Maxis Technologies miraculously turned my vision into a captivating digital reality. Their prowess is unmatched.</p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>PE</h5>
+                        <h4>Paul Eastin</h4>
+                        <h6>Asistant Manager</h6>
+                        <p>Astonishingly brilliant! Maxis Technologies delivered a website beyond imagination. A true masterpiece of creativity and functionality. Highly recommended</p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <span class="enddd"></span>
+        </div>
+        <div class="row mt-5 mobile_none">
+            <div class="testimonial_boxes">
+                <ul class="testimonial_slider mobile_testimonial">
+                    <li>
+                        <h5>MA</h5>
+                        <h4>MARK ANTHONY</h4>
+                        <h6>Brand Manager</h6>
+                        <p>Pleased with the kind of professionalism shown by Maxis designing team. The logo was fantastic and the experience was beyond amazing. I don’t recall working with such creative artists before. Would definitely be coming to them for more services soon</p>
                         <div class="stars">
                             <i class="fa-solid fa-star"></i>
                             <i class="fa-solid fa-star"></i>

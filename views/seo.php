@@ -95,16 +95,95 @@
             <div class="col-md-12"> 
                 <div class="global_heading background-text">
                     <h2 class="right background-text__item">What</h2>
-                    <h2 class="center background-text__item">Our Client</h2>
+                    <h2 class="center background-text__item">our clients</h2>
                     <h2 class="left background-text__item">Think</h2>
                 </div> 
             </div>
         </div>
     </div>
     <div class="container">    
-        <div class="row mt-5">
+        <div class="row mt-5 desktop_none">
             <div class="testimonial_boxes mt-5">
                 <ul class="testimonial_slider">
+                    <li>
+                        <h5>JM</h5>
+                        <h4>Judy M. </h4>
+                        <h6>Brand Manager</h6>
+                        <p>Maxis Technologies improved our web presence. Their SEO services profoundly increased our website’s rankings and traffic. </p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>ZG</h5>
+                        <h4>Zander G. </h4>
+                        <h6>Managing Director</h6>
+                        <p>Their SEO skills are impressive. Our organic leads increased significantly after their services. I appreciate their hard work a lot. </p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>JD</h5>
+                        <h4>Jack D</h4>
+                        <h6>Brand Owner</h6>
+                        <p>Our online traffic increased dramatically, boosting our business popularity</p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>GR</h5>
+                        <h4>George R.</h4>
+                        <h6>Head of Operations</h6>
+                        <p>Our website shows up at the top of the keywords we were targeting.</p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>RB</h5>
+                        <h4>Richard B</h4>
+                        <h6>Client Relationship Manager</h6>
+                        <p>Their SEO led us to gain more organic traffic and conversions. Choosing their service was the key decision for our startup success. </p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>NF</h5>
+                        <h4>Norman F.</h4>
+                        <h6>Asistant Manager</h6>
+                        <p>Maxis Technologies excels in SEO improvements. Their careful techniques immensely boosted our brand’s web exposure. </p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <span class="enddd"></span>
+        </div>
+        <div class="row mt-5 mobile_none">
+            <div class="testimonial_boxes mt-5">
+                <ul class="testimonial_slider mobile_testimonial">
                     <li>
                         <h5>JM</h5>
                         <h4>Judy M. </h4>

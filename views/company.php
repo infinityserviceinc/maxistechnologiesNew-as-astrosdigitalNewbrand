@@ -61,16 +61,95 @@
             <div class="col-md-12"> 
                 <div class="global_heading background-text">
                     <h2 class="right background-text__item">WHat</h2>
-                    <h2 class="center background-text__item">Our Clients</h2>
+                    <h2 class="center background-text__item">our clientss</h2>
                     <h2 class="left background-text__item">Think</h2>
                 </div> 
             </div>
         </div>
     </div>
     <div class="container">    
-        <div class="row mt-5">
+        <div class="row mt-5 desktop_none">
             <div class="testimonial_boxes mt-5">
                 <ul class="testimonial_slider">
+                    <li>
+                        <h5>SC</h5>
+                        <h4>Sara C</h4>
+                        <h6>Brand Manager</h6>
+                        <p>Maxis Technologies improved our website! They implemented insightful strategies that helped us grow web traffic and new leads</p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>PJ</h5>
+                        <h4>Peter  J.</h4>
+                        <h6>Managing Director</h6>
+                        <p>Their dedication and ingenuity have improved our brand beyond expectations.</p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>MB</h5>
+                        <h4>Mark B.</h4>
+                        <h6>Brand Owner</h6>
+                        <p>Partnering with Maxis Technologies changed everything. Their data-driven marketing and new approaches have enormously improved client engagement and sales. </p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>AC</h5>
+                        <h4>Augustus C.</h4>
+                        <h6>Head of Operations</h6>
+                        <p>Maxis Technologies delivers as promised. Our ROI increased with their customized solutions. Their team's digital marketing skills are impressive</p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>RD</h5>
+                        <h4>Ricky D.</h4>
+                        <h6>Client Relationship Manager</h6>
+                        <p>Provided us with out-of-the-box solutions. Highly impressed! They understood our demands and improved our web presence, helping us grow exponentially.  </p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>NB</h5>
+                        <h4>Norman B.</h4>
+                        <h6>Asistant Manager</h6>
+                        <p>Maxis Technologies dominates digitally! Our conversions have increased due to their brilliant strategies and executions. I appreciate their excellent service.</p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <span class="enddd"></span>
+        </div>
+        <div class="row mt-5 mobile_none">
+            <div class="testimonial_boxes mt-5">
+                <ul class="testimonial_slider mobile_testimonial">
                     <li>
                         <h5>SC</h5>
                         <h4>Sara C</h4>

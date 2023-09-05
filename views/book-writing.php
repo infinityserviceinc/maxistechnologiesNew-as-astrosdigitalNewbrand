@@ -105,7 +105,7 @@
             <div class="col-md-12">
                 <div class="book_inner">
                     <h2>HERE IS OUR TOP-OF-THE-SHELF LITERATURE</h2>
-                    <p>Check out our successful portfolio that has turned our clients into bestsellers in record time.</p>
+                    <p>Check out our successful portfolio that has turned our clientss into bestsellers in record time.</p>
                 </div>
             </div>
         </div>
@@ -197,7 +197,7 @@
                     </div>
                     <div class="back">
                         <div class="inner">
-                            <p>We strive to provide our clients with an exceptional customer experience. We respect deadlines and are committed to delivering exceptional content within the stipulated time frame without compromising on quality.</p>
+                            <p>We strive to provide our clientss with an exceptional customer experience. We respect deadlines and are committed to delivering exceptional content within the stipulated time frame without compromising on quality.</p>
                         </div>
                     </div>
                 </div>
@@ -214,16 +214,95 @@
             <div class="col-md-12"> 
                 <div class="global_heading background-text">
                     <h2 class="right background-text__item">What</h2>
-                    <h2 class="center">Our Client</h2>
+                    <h2 class="center">our clients</h2>
                     <h2 class="left background-text__item">Think</h2>
                 </div> 
             </div>
         </div>
     </div>
     <div class="container">    
-        <div class="row mt-5">
+        <div class="row mt-5 desktop_none">
             <div class="testimonial_boxes">
                 <ul class="testimonial_slider">
+                    <li>
+                        <h5>DA</h5>
+                        <h4>Drew A.</h4>
+                        <h6>Brand Manager</h6>
+                        <p>I dreamt of writing a book but lacked the time and skill. Maxis Technologies paired me with a ghostwriter who understood my vision. We collaborated seamlessly, and my book was crafted authentically. It’s not an overnight transformation, but it’s a dream realized with their patient support. </p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>JG</h5>
+                        <h4>Johnna G</h4>
+                        <h6>Managing Director</h6>
+                        <p>Maxis Technologies’ book writing has greatly impressed me. They improved my book’s appeal and edited my manuscript to perfection</p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>CL</h5>
+                        <h4>Conner L.</h4>
+                        <h6>Brand Owner</h6>
+                        <p>Maxis Technologies distinguished my book in a competitive market. Their writing is unsurpassed by any of the services I hired in the past. </p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>TJ</h5>
+                        <h4>Timmy J.</h4>
+                        <h6>Head of Operations</h6>
+                        <p>Research for historical accuracy was slowing my writing down. Maxis Technologies connected me with a writer experienced in historical fiction. Their meticulous research filled gaps in my narrative, making the story more immersive. The result is a book that feels grounded and genuine</p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>MT</h5>
+                        <h4>Martha T</h4>
+                        <h6>Client Relationship Manager</h6>
+                        <p>Writing non-fiction was new to me, and organizing my ideas was overwhelming. Maxis Technologies introduced me to a writer who excelled in structuring information. With their guidance, my book is informative yet engaging, striking the right balance that I struggled with on my own. </p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>SM</h5>
+                        <h4> Stephone M.</h4>
+                        <h6>Asistant Manager</h6>
+                        <p>The experts helped me revamp my manuscript, deeply edited the plot inaccuracies, improved characters, and made the story distinct and engaging </p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <span class="enddd"></span>
+        </div>
+        <div class="row mt-5 mobile_none">
+            <div class="testimonial_boxes">
+                <ul class="testimonial_slider mobile_testimonial">
                     <li>
                         <h5>DA</h5>
                         <h4>Drew A.</h4>

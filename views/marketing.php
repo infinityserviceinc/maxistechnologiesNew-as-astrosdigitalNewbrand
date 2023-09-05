@@ -36,9 +36,8 @@
             </div>        
         </div> 
         <div class="row mt-5">
-            <div class="col-md-7"></div>
-            <div class="col-md-5">
-                <div class="simple_para">
+            <div class="col-md-7">
+            <div class="simple_para">
                     <p>Broadcast a unified message across all the marketing channels to increase the brand’s visibility, audience reach and customer retention. </p>
                     <ul>
                         <li>Running strategic organic and paid marketing campaigns </li>
@@ -49,6 +48,9 @@
                         <li>Sharing analytics and monthly reports of success </li>
                     </ul>
                 </div>
+            </div>
+            <div class="col-md-5">
+                
             </div>
         </div>   
     </div>
@@ -165,16 +167,95 @@
             <div class="col-md-12"> 
                 <div class="global_heading background-text">
                     <h2 class="right background-text__item">WHAT</h2>
-                    <h2 class="center background-text__item">Our Client</h2>
+                    <h2 class="center background-text__item">our clients</h2>
                     <h2 class="left background-text__item">Think</h2>
                 </div> 
             </div>
         </div>
     </div>
     <div class="container">    
-        <div class="row mt-5">
+        <div class="row mt-5 desktop_none">
             <div class="testimonial_boxes mt-5">
                 <ul class="testimonial_slider">
+                    <li>
+                        <h5>JD</h5>
+                        <h4>Jayson D</h4>
+                        <h6>Brand Manager</h6>
+                        <p>Marketing services from Maxis Technologies revolutionized our company’s reputation. Online presence soared, increasing revenue and brand awareness. </p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>TT</h5>
+                        <h4>Tomah T.</h4>
+                        <h6>Managing Director</h6>
+                        <p>Our ROI increased due to its skill in improving traffic, engagement, and conversions. </p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>SB</h5>
+                        <h4>Sara B.</h4>
+                        <h6>Brand Owner</h6>
+                        <p>Their team’s passion and ingenuity helped us engage our target audience</p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>OT</h5>
+                        <h4>Oslo T.</h4>
+                        <h6>Head of Operations</h6>
+                        <p>Maxis Technologies’ marketing services are very creative and effective. We have record-high client interaction and social media growth</p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>KM</h5>
+                        <h4>Ken M.</h4>
+                        <h6>Client Relationship Manager</h6>
+                        <p>Their integrated marketing services helped our firm grow quickly. They succeeded and delivered on their promises. </p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>LC</h5>
+                        <h4>Lenny Carter</h4>
+                        <h6>Asistant Manager</h6>
+                        <p>Their approach wasn’t about flashy trends but about understanding our customers. Slowly but surely, our engagement started growing, and we’re seeing genuine interest from the right people. </p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <span class="enddd"></span>
+        </div>
+        <div class="row mt-5 mobile_none">
+            <div class="testimonial_boxes mt-5">
+                <ul class="testimonial_slider mobile_testimonial">
                     <li>
                         <h5>JD</h5>
                         <h4>Jayson D</h4>

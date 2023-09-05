@@ -55,7 +55,7 @@
             <div class="col-md-12">
                 <div class="logo_inner_page">
                     <h1 class="checking">Our Hall-of-Fame  </h1>
-                    <p class="checking2">Our Mobile app design & development portfolio is a testament to the amazing mobile experiences we deliver for our clients.</p>
+                    <p class="checking2">Our Mobile app design & development portfolio is a testament to the amazing mobile experiences we deliver for our clientss.</p>
                 </div>
                 <div class="design_logo">
                     <ul>
@@ -84,16 +84,95 @@
             <div class="col-md-12"> 
                 <div class="global_heading background-text">
                     <h2 class="right background-text__item">What</h2>
-                    <h2 class="center background-text__item">Our Clients </h2>
+                    <h2 class="center background-text__item">our clientss </h2>
                     <h2 class="left background-text__item">Think</h2>
                 </div> 
             </div>
         </div>
     </div>
     <div class="container">    
-        <div class="row mt-5">
+        <div class="row mt-5 desktop_none">
             <div class="testimonial_boxes mt-5">
                 <ul class="testimonial_slider">
+                    <li>
+                        <h5>Sj</h5>
+                        <h4>Suzan J.</h4>
+                        <h6>Brand Manager</h6>
+                        <p>I was honestly so lost before reaching out to Maxis Technologies. I had this vague idea for an app, but their team helped refine it and made it come to life. It’s like they read my mind. </p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>DH</h5>
+                        <h4>Drew H.</h4>
+                        <h6>Managing Director</h6>
+                        <p>My biggest fear was ending up with an app that looked good but was a nightmare to navigate. Thankfully, Maxis really prioritized user experience. The end result is intuitive and just...easy. </p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>PG</h5>
+                        <h4>Pike G.</h4>
+                        <h6>Brand Owner</h6>
+                        <p>I’ve worked with other developers before, and communication was always a challenge. With Maxis, it was different. They listened, addressed my concerns, and delivered on their promises. It felt collaborative, not combative. </p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>CT</h5>
+                        <h4>Carla T.</h4>
+                        <h6>Head of Operations</h6>
+                        <p>The tech world can be so intimidating! Maxis Technologies made me feel at ease. They broke down complex mumbo jumbo and guided me at every step. My app looks and works beautifully now. </p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>MM</h5>
+                        <h4>Mindy M.</h4>
+                        <h6>Client Relationship Manager</h6>
+                        <p>I had a tight budget and was worried about overruns or hidden costs. Maxis was transparent about pricing and really worked with me to find solutions that didn’t break the bank.</p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>SC</h5>
+                        <h4>Sara C.</h4>
+                        <h6>Asistant Manager</h6>
+                        <p>One thing I truly appreciated about Maxis was their proactive approach. They anticipated potential issues and came up with solutions before they became real problems. Their foresight saved me time and stress</p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <span class="enddd"></span>
+        </div>
+        <div class="row mt-5 mobile_none">
+            <div class="testimonial_boxes mt-5">
+                <ul class="testimonial_slider mobile_testimonial">
                     <li>
                         <h5>Sj</h5>
                         <h4>Suzan J.</h4>

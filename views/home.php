@@ -248,9 +248,88 @@
         </div>
     </div>
     <div class="container">    
-        <div class="row mt-5">
+        <div class="row mt-5 desktop_none">
             <div class="testimonial_boxes mt-5">
                 <ul class="testimonial_slider">
+                    <li>
+                        <h5>JG</h5>
+                        <h4>Johnna G.</h4>
+                        <h6>Brand Manager</h6>
+                        <p>We’ve been able to improve our corporate operations through CMS. They exceeded our expectations</p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>TM</h5>
+                        <h4>Tony M.</h4>
+                        <h6>Managing Director</h6>
+                        <p>Maxis Technologies made our website attractive and functional. They listened to our needs and created a beautiful platform.</p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>CB</h5>
+                        <h4>Casandra B.</h4>
+                        <h6>Brand Owner</h6>
+                        <p>Their data-driven marketing helped us increase our web traffic significantly</p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>SC</h5>
+                        <h4>Simon Conner</h4>
+                        <h6>Head of Operations</h6>
+                        <p>They effectively discovered our brand’s potential. They strengthened our brand identity and clearly conveyed our message to our audience. </p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>MA</h5>
+                        <h4>Moses Jones</h4>
+                        <h6>Client Relationship Manager</h6>
+                        <p>Unparalleled excellence! Maxis Technologies miraculously turned my vision into a captivating digital reality. Their prowess is unmatched.</p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                    <li>
+                        <h5>PE</h5>
+                        <h4>Paul Eastin</h4>
+                        <h6>Asistant Manager</h6>
+                        <p>Astonishingly brilliant! Maxis Technologies delivered a website beyond imagination. A true masterpiece of creativity and functionality. Highly recommended</p>
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <span class="enddd"></span>
+        </div>
+        <div class="row mt-5 mobile_none">
+            <div class="testimonial_boxes mt-5">
+                <ul class="testimonial_slider mobile_testimonial">
                     <li>
                         <h5>JG</h5>
                         <h4>Johnna G.</h4>
