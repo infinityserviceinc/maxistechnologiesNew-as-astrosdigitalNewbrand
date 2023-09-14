@@ -938,6 +938,12 @@ section.contact_sec .row {
 @media only screen and (max-width: 1400px){}
 @media only screen and (max-width: 1399px){
 
+    .marketing_banner h1 {
+        font-size: 45px !important;
+        line-height: 55px;
+    }
+    
+
 
     .inner_service_pg h1 {
         font-size: 40px !important;
@@ -978,8 +984,8 @@ section.contact_sec .row {
     }
 
     .service_inner h1 {
-        font-size: 50px !important;
-        line-height: 70px;
+        font-size: 45px !important;
+        line-height: 55px;
     }
     .logo_img img {
         width: 100%;
