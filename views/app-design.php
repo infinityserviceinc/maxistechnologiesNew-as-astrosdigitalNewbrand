@@ -55,7 +55,7 @@
             <div class="col-md-12">
                 <div class="logo_inner_page">
                     <h1 class="checking">Our Hall-of-Fame  </h1>
-                    <p class="checking2">Our Mobile app design & development portfolio is a testament to the amazing mobile experiences we deliver for our clientss.</p>
+                    <p class="checking2">Our Mobile app design & development portfolio is a testament to the amazing mobile experiences we deliver for our clients.</p>
                 </div>
                 <div class="design_logo">
                     <ul>
@@ -84,7 +84,7 @@
             <div class="col-md-12"> 
                 <div class="global_heading background-text">
                     <h2 class="right background-text__item">What</h2>
-                    <h2 class="center background-text__item">our clientss </h2>
+                    <h2 class="center background-text__item">our clients </h2>
                     <h2 class="left background-text__item">Think</h2>
                 </div> 
             </div>

@@ -105,7 +105,7 @@
             <div class="col-md-12">
                 <div class="book_inner">
                     <h2>HERE IS OUR TOP-OF-THE-SHELF LITERATURE</h2>
-                    <p>Check out our successful portfolio that has turned our clientss into bestsellers in record time.</p>
+                    <p>Check out our successful portfolio that has turned our clients into bestsellers in record time.</p>
                 </div>
             </div>
         </div>
@@ -197,7 +197,7 @@
                     </div>
                     <div class="back">
                         <div class="inner">
-                            <p>We strive to provide our clientss with an exceptional customer experience. We respect deadlines and are committed to delivering exceptional content within the stipulated time frame without compromising on quality.</p>
+                            <p>We strive to provide our clients with an exceptional customer experience. We respect deadlines and are committed to delivering exceptional content within the stipulated time frame without compromising on quality.</p>
                         </div>
                     </div>
                 </div>

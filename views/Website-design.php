@@ -51,7 +51,7 @@
             <div class="col-md-12">
                 <div class="logo_inner_page">
                     <h1 class="checking">Highly Praised and Adored Projects</h1>
-                    <p class="checking2">Highly Praised and Adored Projects</p>
+                    <p class="checking2">Here are some of our amazing projects that we are proud to showcase.</p>
                 </div>
                 <div class="psd_points">
                 <ul class="imglist">

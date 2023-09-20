@@ -38,18 +38,47 @@
 </section>
 <!-- sec_1 end -->
 
-<section class="seo_content global_class overlay_wrap p_top p_bottom">
+<section class="logo_sec_inner global_class overlay_wrap">
     <div class="container">
-        <div class="row align-items-center">
-            <div class="col-md-6">
-                <div class="seo_inner">
-                    <h2 class="checking">Elevate Your Strategy Beyond Common Hurdles</h2>
-                    <p class="checking2">Here’s a portfolio we are proud to show off. Check out how we have turned social media to their advantage</p>                    
+        <div class="row">
+            <div class="col-md-12">
+                <div class="logo_inner_page">
+                    <h1 class="checking">Highly Praised and Adored Projects</h1>
+                    <p class="checking2">Here are some of our amazing projects that we are proud to showcase.</p>
                 </div>
-            </div>
-            <div class="col-md-6">
-                <div class="seo_img">
-                    <img class="mover" src="assets/images/smm.png" alt="">
+                <div class="psd_points">
+                <ul class="imglist">
+                        <li>
+                            <a href="assets/images/psd_new.png" data-fancybox="group" data-caption="This image has a caption 1">
+                                <img src="assets/images/psd_new.png" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="assets/images/psd_new-1.png" data-fancybox="group" data-caption="This image has a caption 1">
+                                <img src="assets/images/psd_new-1.png" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="assets/images/psd_new-2.png" data-fancybox="group" data-caption="This image has a caption 1">
+                                <img src="assets/images/psd_new-2.png" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="assets/images/psd_new-3.png" data-fancybox="group" data-caption="This image has a caption 1">
+                                <img src="assets/images/psd_new-3.png" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="assets/images/psd_new-4.png" data-fancybox="group" data-caption="This image has a caption 1">
+                                <img src="assets/images/psd_new-4.png" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="assets/images/psd_3.png" data-fancybox="group" data-caption="This image has a caption 1">
+                                <img src="assets/images/psd_3.png" />
+                            </a>
+                        </li>                        
+                    </ul>
                 </div>
             </div>
         </div>

@@ -105,7 +105,7 @@
             <div class="col-md-12">
                 <div class="psd_inner">
                     <h2>Website Design & devlopment</h2>
-                    <p>We offer our clientss digitally transformative and responsive designs<br> that provide concrete outcomes and strong online visibility.</p>
+                    <p>We offer our clients digitally transformative and responsive designs<br> that provide concrete outcomes and strong online visibility.</p>
                 </div>
                 <div class="psd_points">
                     <ul class="imglist">

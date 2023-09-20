@@ -61,7 +61,7 @@
             <div class="col-md-12"> 
                 <div class="global_heading background-text">
                     <h2 class="right background-text__item">WHat</h2>
-                    <h2 class="center background-text__item">our clientss</h2>
+                    <h2 class="center background-text__item">our clients</h2>
                     <h2 class="left background-text__item">Think</h2>
                 </div> 
             </div>

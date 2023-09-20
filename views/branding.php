@@ -22,14 +22,13 @@
             <div class="col-md-12">
                 <div class="inner_banner service_inner inner_service_pg">
                     <h1>TURNING YOUR BUSINESS INTO A DISTINCT BRAND</h1>                    
-                </div>  
-                                         
+                </div>                       
             </div>        
         </div> 
         <div class="row mt-5">
             <div class="col-md-7">
             <div class="simple_para">
-                <p>TURNING YOUR BUSINESS INTO A DISTINCT BRAND</p>
+                <p>Digitalizing your identity, values, and mission to effectively communicate your brand message with your target audience across all platforms and channels. </p>
             </div>
             <div class="inner_points_servcies">
                     <ul>
@@ -77,7 +76,7 @@
             <div class="col-md-12"> 
                 <div class="global_heading background-text">
                     <h2 class="right background-text__item">What</h2>
-                    <h2 class="center background-text__item">our clientss</h2>
+                    <h2 class="center background-text__item">our clients</h2>
                     <h2 class="left background-text__item">Think</h2>
                 </div> 
             </div>
