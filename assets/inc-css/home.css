@@ -1031,6 +1031,15 @@ section.contact_sec .row {
 }
 @media only screen and (max-width: 767px){
 
+    .p_top {
+        padding-top: 0;
+    }
+    
+
+    section.sec_6 {
+        padding-bottom: 40px;
+    }
+
     .mobile_none{
         display: block !important;
     }
@@ -1173,7 +1182,7 @@ section.contact_sec .row {
     }
 
     .simple_inner h2 {
-        font-size: 50px !important;
+        font-size: 40px !important;
     }
 
     section.simple_content_sec {
@@ -1328,7 +1337,7 @@ section.contact_sec .row {
 
 
     .contact_inner h2 {
-        font-size: 35px !important;
+        font-size: 28px !important;
         line-height: 40px !important;
     }
     
@@ -1487,13 +1496,13 @@ li.inner_banner {
     }
     
     section.sec_1 {
-        padding-top: 90px !important;
+        padding-top: 140px !important;
         height: 590px;
         padding-bottom: 0;
     }
     
     .text_wrap {
-        bottom: 260px;
+        bottom: 50px;
     }
     
     .inner_banner:before {
@@ -1533,14 +1542,15 @@ li.inner_banner {
     }
     
     .service_box h2 {
-        font-size: 30px;
-        line-height: 35px;
+        font-size: 25px;
+        line-height: 30px;
     }
     
     .service_box p {
-        font-size: 16px;
+        font-size: 15px;
         line-height: 25px;
         font-weight: 300;
+        width: 100%;
     }
     
     .service_box {
@@ -1559,7 +1569,7 @@ li.inner_banner {
     .heading_wrap p {
         width: 100%;
         margin: 20px 0 0 0;
-        font-size: 24px;
+        font-size: 21px;
     }
     
     .global_text h2 {
@@ -1621,8 +1631,8 @@ li.inner_banner {
     }
     
     section.sec_6 .form_inner h2 {
-        font-size: 30px !important;
-        line-height: 40px;
+        font-size: 25px !important;
+        line-height: 35px;
     }
     
     .form_inner p {
@@ -1655,7 +1665,7 @@ li.inner_banner {
     button.navbar-toggler {
         position: absolute;
         right: 0;
-        top: -80px;
+        top: -65px;
         background: #d02a3d;
         height: 50px;
         padding: 0 4px;
@@ -1912,7 +1922,7 @@ body.contact_page section.sec_bottom {
 
 section.simple_content_sec {
     height: 600px;
-    padding-top: 80px;
+    padding-top: 0;
 }
 
 .simple_inner:before, .simple_inner:after {
@@ -1932,8 +1942,8 @@ section.simple_content_sec {
 .simple_inner p {
     margin: 20px 0 0 0;
     text-align: left;
-    font-size: 22px;
-    line-height: 32px;
+    font-size: 18px;
+    line-height: 28px;
     font-weight: 300;
 }
 
