@@ -46,39 +46,91 @@
                     <h1 class="checking">Highly Praised and Adored Projects</h1>
                     <p class="checking2">Here are some of our amazing projects that we are proud to showcase.</p>
                 </div>
-                <div class="psd_points">
-                <ul class="imglist">
-                        <li>
-                            <a href="assets/images/psd_new.png" data-fancybox="group" data-caption="This image has a caption 1">
-                                <img src="assets/images/psd_new.png" />
-                            </a>
-                        </li>
-                        <li>
-                            <a href="assets/images/psd_new-1.png" data-fancybox="group" data-caption="This image has a caption 1">
-                                <img src="assets/images/psd_new-1.png" />
-                            </a>
-                        </li>
-                        <li>
-                            <a href="assets/images/psd_new-2.png" data-fancybox="group" data-caption="This image has a caption 1">
-                                <img src="assets/images/psd_new-2.png" />
-                            </a>
-                        </li>
-                        <li>
-                            <a href="assets/images/psd_new-3.png" data-fancybox="group" data-caption="This image has a caption 1">
-                                <img src="assets/images/psd_new-3.png" />
-                            </a>
-                        </li>
-                        <li>
-                            <a href="assets/images/psd_new-4.png" data-fancybox="group" data-caption="This image has a caption 1">
-                                <img src="assets/images/psd_new-4.png" />
-                            </a>
-                        </li>
-                        <li>
-                            <a href="assets/images/psd_3.png" data-fancybox="group" data-caption="This image has a caption 1">
-                                <img src="assets/images/psd_3.png" />
-                            </a>
-                        </li>                        
-                    </ul>
+            </div>
+        </div>
+        <div class="row mt-5">
+            <div class="col-md-4 p-0">
+                <div class="overlap_box">
+                    <div class="image_box">
+                        <img src="assets/images/1_overlap.png" alt="">
+                    </div>
+                    <div class="center_content_box">
+                        <h2>+236<span>%</span></h2>
+                        <p>Website Purchase ROAS</p>
+                    </div>
+                    <div class="hide_content">
+                        <h5>Tethered Photography Company</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="overlap_box">
+                    <div class="image_box">
+                        <img src="assets/images/2_overlap.jpg" alt="">
+                    </div>
+                    <div class="center_content_box">
+                        <h2>+360<span>%</span></h2>
+                        <p>Organic Traffic</p>
+                    </div>
+                    <div class="hide_content">
+                        <h5>GeoForce</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 p-0">
+                <div class="overlap_box">
+                    <div class="image_box">
+                        <img src="assets/images/3_overlape.png" alt="">
+                    </div>
+                    <div class="center_content_box">
+                        <h2>+137<span>%</span></h2>
+                        <p>Highest Number of <br>Reactions on Facebook</p>
+                    </div>
+                    <div class="hide_content">
+                        <h5>Law Firm</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 p-0 mt-2">
+                <div class="overlap_box">
+                    <div class="image_box">
+                        <img src="assets/images/4_overlape.jpg" alt="">
+                    </div>
+                    <div class="center_content_box">
+                        <h2>+291<span>%</span></h2>
+                        <p>Ad Sales</p>
+                    </div>
+                    <div class="hide_content">
+                        <h5>Grow Strong Industries</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mt-2">
+                <div class="overlap_box">
+                    <div class="image_box">
+                        <img src="assets/images/5_overlape.jpg" alt="">
+                    </div>
+                    <div class="center_content_box">
+                        <h2>+88<span>%</span></h2>
+                        <p>Add Sales</p>
+                    </div>
+                    <div class="hide_content">
+                        <h5>IDville</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 p-0 mt-2">
+                <div class="overlap_box">
+                    <div class="image_box">
+                        <img src="assets/images/6_overlape.png" alt="">
+                    </div>
+                    <div class="center_content_box">
+                        <h2>+21.7<span>M</span></h2>
+                        <p>Online Readership</p>
+                    </div>
+                    <div class="hide_content">
+                        <h5>Mobile App Development Company</h5>
+                    </div>
                 </div>
             </div>
         </div>

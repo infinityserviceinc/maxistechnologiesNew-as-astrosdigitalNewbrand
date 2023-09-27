@@ -21,7 +21,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="inner_banner service_inner">
-                    <h1>Crafting Masterpieces Across All Genres </h1>                             
+                    <h1 class="size_issue">Crafting Masterpieces Across All Genres </h1>                             
                 </div>  
                 <div class="service_points">
                     <ul>
