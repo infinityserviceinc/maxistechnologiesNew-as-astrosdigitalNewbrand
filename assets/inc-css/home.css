@@ -1504,13 +1504,13 @@ li.inner_banner {
     }
     
     section.sec_1 {
-        padding-top: 140px !important;
+        padding-top: 20px !important;
         height: 590px;
         padding-bottom: 0;
     }
     
     .text_wrap {
-        bottom: 50px;
+        bottom: 270px;
     }
     
     .inner_banner:before {
@@ -2285,4 +2285,10 @@ section.making_sec {
 .overlap_box:hover .image_box img {
     filter: brightness(0.3);
     transition: 0.5s;
+}
+
+@media only screen and (max-width: 389px){
+    .text_wrap {
+        bottom: 60px;
+    }
 }
