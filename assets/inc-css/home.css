@@ -1510,7 +1510,7 @@ li.inner_banner {
     }
     
     .text_wrap {
-        bottom: 60px;
+        bottom: 260px;
     }
     
     .inner_banner:before {
@@ -2287,8 +2287,8 @@ section.making_sec {
     transition: 0.5s;
 }
 
-@media only screen and (max-width: 389px){
+@media only screen and (max-width: 375px){
     .text_wrap {
-        bottom: 60px;
+        bottom: 90px;
     }
 }
