@@ -13,6 +13,11 @@
                         <li><a href="tel:+18884835982">+1 (888) 483 5982</a></li>
                         <li><a href="mailto:support@maxistechnologies.com">support@maxistechnologies.com</a></li>
                     </ul>
+                    <h4 class="mt-2" style="font-family: 'Medium';">D.B.A</h4>
+                    <div class="dma">
+                      <a href="https://www.theappfounders.com/" target="_blank"><img src="assets/images/dma.png" style="width:150px;" alt=""></a>
+                      <a href="https://www.amzfounders.com/" target="_blank"><img src="assets/images/dma-1.png" alt=""></a>
+                    </div>
                 </div>
             </div>
             <div class="col-md-2">
@@ -28,7 +33,16 @@
         </div>
     </div>
 </section>
-
+<style>
+  .dma{
+    display:flex;
+  }
+  .dma img{
+    width:80px;
+    margin-right: 40px;
+    margin-top: 10px;
+  }
+</style>
 <section class="sec_bottom">
     <div class="container">
         <div class="row">

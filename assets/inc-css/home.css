@@ -773,7 +773,7 @@ section.footer_main {
     background-image: url(../images/moon.png);
     background-repeat: no-repeat;
     background-position: left;
-    height: 120px;
+    height: 200px;
     position: relative;
     display: flex;
     align-items: center;
