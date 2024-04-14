@@ -22,14 +22,15 @@
             </div>
             <div class="col-md-2">
                 <div class="footer_main">
-                    <p><a href="https://goo.gl/maps/LEpWTYJaBwrsnp2L8" target="_blank">8223 Calico Canyon Dr Tomball TX 77375 USA</a></p>
+                    <p><a href="https://goo.gl/maps/LEpWTYJaBwrsnp2L8" target="_blank">1223 East 233rd St
+Bronx, NY 10466</a></p>
                 </div>
             </div>
-            <div class="col-md-2">
+            <!-- <div class="col-md-2">
                 <div class="footer_main">
                     <p><a href="https://goo.gl/maps/EvtHUpvqstNK7KtV8" target="_blank">9300 N Milwaukee Ave , Niles, IL 60714</a></p>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>

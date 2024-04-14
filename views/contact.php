@@ -59,8 +59,9 @@
                     </div>
                     <div class="inner_sider">
                         <h2>Come and see us!</h2>
-                        <p><a href="https://goo.gl/maps/LEpWTYJaBwrsnp2L8" targe="_blank">8223 Calico Canyon Dr Tomball TX 77375 USA</a></p>
-                        <p><a href="https://goo.gl/maps/EvtHUpvqstNK7KtV8" targe="_blank">9300 N Milwaukee Ave , Niles, IL 60714</a></p>                       
+                        <p><a href="https://goo.gl/maps/LEpWTYJaBwrsnp2L8" targe="_blank">1223 East 233rd St
+Bronx, NY 10466</a></p>
+                        <!-- <p><a href="https://goo.gl/maps/EvtHUpvqstNK7KtV8" targe="_blank">9300 N Milwaukee Ave , Niles, IL 60714</a></p>                        -->
                     </div>
                 </div>
             </div>
